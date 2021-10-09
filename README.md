@@ -65,3 +65,12 @@ uncertainty.
 <img width="700" alt="Screen Shot 2021-10-09 at 2 22 19 PM" src="https://user-images.githubusercontent.com/45252772/136674088-4f17595c-1360-4d4b-8b93-4a94c558d017.png">
 <img width="700" alt="Screen Shot 2021-10-09 at 2 22 37 PM" src="https://user-images.githubusercontent.com/45252772/136674097-9754ea12-7bb7-49bd-93b5-f465917259aa.png">
 
+# Description of Files
+
+## Covert and Overt ERP-based BCI.ipynb
+
+Contains graphs depicting performance of static and dynamic models described in the paper
+
+## HBNN v.s DNN Covert and Overt ERP-based BCI.ipynb
+
+Contains graphs depicting performance between Bayesian and Non-Bayesian models
