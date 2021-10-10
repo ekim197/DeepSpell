@@ -77,3 +77,6 @@ This notebook contains graphs depicting performance of static and dynamic models
 ### HBNN v.s DNN Covert and Overt ERP-based BCI.ipynb
 
 This notebook contains graphs depicting performance between Bayesian and Non-Bayesian models. We also show the training curve of each model. Furthermore,the performance of the Bayesian model with various monte-carlo number is also shown. In all these cases, we show that the Bayesian model is superior in performance and speed compared to the non-Bayesian model.
+
+## Contributors
+Chao-Li Wei, Eugene Kim, Andrew Clinton Wong, Joelle Faybishenko, Quinton Ramaswamy, Simon Fei, Bailey Man
