@@ -69,8 +69,8 @@ uncertainty.
 
 ### Covert and Overt ERP-based BCI.ipynb
 
-Contains graphs depicting performance of static and dynamic models described in the paper
+This notebook contains graphs depicting performance of static and dynamic models described in the paper. In addition, it contains code pertaining to the dynamic stopping algorithm as well as the static algorithm. These algorithms are used with the Bayesian and non-Bayesian model to show the differences in performance and speed of classifying characters in a P300 RC Speller. 
 
 ### HBNN v.s DNN Covert and Overt ERP-based BCI.ipynb
 
-Contains graphs depicting performance between Bayesian and Non-Bayesian models
+This notebook contains graphs depicting performance between Bayesian and Non-Bayesian models. We also show the training curve of each model. Furthermore,the performance of the Bayesian model with various monte-carlo number is also shown. In all these cases, we show that the Bayesian model is superior in performance and speed compared to the non-Bayesian model.
