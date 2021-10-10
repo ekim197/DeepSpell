@@ -61,10 +61,13 @@ This has significantly fewer parameters than other Convolutional Neural Networks
 (CNN). The EEGNet layers are followed by a probabilistic output layer to capture
 uncertainty.
 
+<img width="700" alt="Screen Shot 2021-10-10 at 12 40 24 PM" src="https://user-images.githubusercontent.com/45252772/136710790-63d378e8-43c6-489c-9db6-4937956d2540.png">
+
+HBNN Architecture
+
 ## Results
 <img width="700" alt="Screen Shot 2021-10-09 at 2 22 19 PM" src="https://user-images.githubusercontent.com/45252772/136674088-4f17595c-1360-4d4b-8b93-4a94c558d017.png">
 <img width="700" alt="Screen Shot 2021-10-09 at 2 22 37 PM" src="https://user-images.githubusercontent.com/45252772/136674097-9754ea12-7bb7-49bd-93b5-f465917259aa.png">'
-<img width="700" alt="Screen Shot 2021-10-10 at 12 40 24 PM" src="https://user-images.githubusercontent.com/45252772/136710790-63d378e8-43c6-489c-9db6-4937956d2540.png">
 
 
 ## Description of Files
